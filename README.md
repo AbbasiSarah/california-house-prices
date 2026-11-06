@@ -1,5 +1,7 @@
 # California House Price Prediction
 
+<p align="center"><a href="https://abbasisarah.github.io/assets/videos/demo-california-house-prices.mp4"><img src="assets/demo.gif" width="300" alt="17-second project demo"></a><br><sub>17-second demo. Click for the video with sound.</sub></p>
+
 Predicts the median house value of a California district from census data. The best model, gradient boosting, explains **84% of the variation in prices (R² 0.84)**, with a typical error of **$29,800**. It places **72% of districts within ±20%** of their true value.
 
 ![Predicted vs actual](results/figures/predicted_vs_actual.png)
